@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mohamed-Karkotly
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning fullstack development
-- 📫 How to reach me: Whatsapp/Telegram on: +963 997 386 992 | Facebook: fb.com/mo.karkotly
+- 👀 I’m interested in Software Engineering | Cross Platform Development | Web Technologies
+- 🌱 I’m currently learning full stack development
+- 🌐 Portfolio: https://mohamed-karkotly.firebaseapp.com
+- 📫 How to reach me: WhatsApp/Telegram on: +963 997 386 992
 
 <!---
 Mohamed-Karkotly/Mohamed-Karkotly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
